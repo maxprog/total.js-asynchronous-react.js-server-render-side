@@ -12,7 +12,7 @@ npm i --save-dev babel-cli babel-core babel-preset-es2015 babel-preset-react bab
 2. Install async-props package to handle async react component
 
   ```
-npm i --save async-props
+npm i --save async-props isomorphic-fetch
   ```
 
 
